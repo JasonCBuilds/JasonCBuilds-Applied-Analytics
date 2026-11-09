@@ -1,0 +1,13 @@
+job_id,requested_date,county,service_type,provider_id,status,revenue_usd,provider_payout_usd,completion_minutes
+FZ001,2026-11-01,Rockland,roadside_assistance,P001,completed,95,65,42
+FZ002,2026-11-01,Bergen,tire_change,P002,completed,120,85,55
+FZ003,2026-11-02,Rockland,battery_jump,P001,completed,75,50,28
+FZ004,2026-11-02,Rockland,mobile_mechanic,P003,open,180,130,
+FZ005,2026-11-03,Hudson,car_wash,P004,completed,80,55,70
+FZ006,2026-11-03,Rockland,roadside_assistance,P002,open,105,75,
+FZ007,2026-11-04,Bergen,battery_jump,P001,completed,70,45,35
+FZ008,2026-11-04,Rockland,tire_change,P003,completed,130,95,60
+FZ009,2026-11-05,Hudson,mobile_mechanic,P003,cancelled,160,0,
+FZ010,2026-11-05,Rockland,car_wash,P004,completed,85,60,65
+FZ011,2026-11-06,Rockland,roadside_assistance,P002,completed,110,80,48
+FZ012,2026-11-06,Bergen,tire_change,P002,open,125,90,
